@@ -28,3 +28,18 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r}
+print("Hellow World!")
+```
+- 1st element  
+- 2nd element  
+- 3rd element  
+- 4th element  
+- 5th element  
+
+```{r}
+print("This is a new line of text on my markdown!")
+```
+
+
